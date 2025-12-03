@@ -6,12 +6,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="600" alt="coding animation" />
-</div>
-
-<br/>
-
 ### 🚀 About Me
 - 🔭 I’m currently working on **MERN Stack Projects & CRUD Applications**
 - 🌱 I’m currently learning **Data Science & Advanced Algorithms**
@@ -35,18 +29,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JENILP07&show_icons=true&locale=en&theme=radical" alt="JENILP07" height="150" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JENILP07&show_icons=true&locale=en&layout=compact&theme=radical" alt="JENILP07" height="150" />
-  </a>
+<a href="https://github.com/JENILP07">
+<img src="https://github-readme-stats.vercel.app/api?username=JENILP07&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150" />
+</a>
+<a href="https://github.com/JENILP07">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JENILP07&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</a>
 </div>
-
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=JENILP07&theme=radical" alt="JENILP07" height="150" />
-  </a>
+<a href="https://github.com/JENILP07">
+<img src="https://github-readme-streak-stats.demolab.com/?user=JENILP07&theme=radical" alt="Streak Stats" height="150" />
+</a>
 </div>
 ### 📫 Connect with me
 
