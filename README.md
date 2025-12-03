@@ -29,18 +29,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/JENILP07">
-<img src="https://github-readme-stats.vercel.app/api?username=JENILP07&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150" />
-</a>
-<a href="https://github.com/JENILP07">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JENILP07&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</a>
+  <a href="https://github.com/JENILP07">
+    <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=JENILP07&show_icons=true&locale=en&theme=radical" height="150" />
+  </a>
+  <a href="https://github.com/JENILP07">
+    <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs?username=JENILP07&layout=compact&show_icons=true&locale=en&theme=radical" height="150" />
+  </a>
 </div>
 <div align="center">
-<a href="https://github.com/JENILP07">
-<img src="https://github-readme-streak-stats.demolab.com/?user=JENILP07&theme=radical" alt="Streak Stats" height="150" />
-</a>
+  <a href="https://github.com/JENILP07">
+    <img src="https://github-readme-streak-stats.demolab.com?user=JENILP07&theme=radical" height="150" />
+  </a>
 </div>
+
 ### 📫 Connect with me
 
 <div align="center">
