@@ -31,5 +31,5 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/jenil-patel-59a960277/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://instagram.com/jenil____28" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="[https://www.leetcode.com/jenil patel](https://leetcode.com/u/Jenil_patel_/)" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" /></a>
+<a href="[[https://www.leetcode.com/jenil patel](https://leetcode.com/u/Jenil_patel_/)](https://leetcode.com/u/Jenil_patel_/)" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" /></a>
 </div>
