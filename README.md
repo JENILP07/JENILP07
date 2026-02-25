@@ -141,13 +141,12 @@ I'm a passionate **Full-Stack Developer** from 🇮🇳 **India**, focused on bu
 ## 📈 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JENILP07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Jenil's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JENILP07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JENILP07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JENILP07&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JENILP07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JENILP07&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 ---
@@ -155,9 +154,7 @@ I'm a passionate **Full-Stack Developer** from 🇮🇳 **India**, focused on bu
 ## 🏅 GitHub Trophies
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JENILP07&theme=tokyonight&no-frame=true&row=1&column=7)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=JENILP07&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -174,5 +171,5 @@ I'm a passionate **Full-Stack Developer** from 🇮🇳 **India**, focused on bu
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=80&section=footer" alt="footer" />
 </div>
