@@ -141,20 +141,20 @@ I'm a passionate **Full-Stack Developer** from 🇮🇳 **India**, focused on bu
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JENILP07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Jenil's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JENILP07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JENILP07&theme=tokyonight" alt="Stats" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JENILP07&theme=tokyonight" alt="Top Languages" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JENILP07&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JENILP07&theme=tokyonight" alt="Profile Summary" />
 </div>
 
----
-
-## 🏅 GitHub Trophies
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JENILP07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JENILP07&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JENILP07&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
