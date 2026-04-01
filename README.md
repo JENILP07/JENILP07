@@ -116,14 +116,16 @@ I'm a passionate **Full-Stack Developer** from 🇮🇳 **India**, focused on bu
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JENILP07&theme=tokyonight" alt="Stats" height="180em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JENILP07&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JENILP07&theme=tokyonight" alt="Stats" height="180em" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JENILP07&theme=tokyonight" alt="Top Languages" height="180em" />
 </div>
 
-<!-- <div align="center">
-  
-</div> -->
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JENILP07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
