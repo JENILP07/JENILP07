@@ -109,31 +109,6 @@ I'm a passionate **Full-Stack Developer** from 🇮🇳 **India**, focused on bu
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 Data Structures (Java)</h3>
-      <p>A collection of <strong>data structure implementations</strong> in Java covering arrays, linked lists, trees, graphs, and sorting algorithms.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Algorithms-4CAF50?style=flat-square" alt="Algorithms" />
-      </p>
-      <a href="https://github.com/JENILP07/Data-Structure">
-        <img src="https://img.shields.io/badge/View_Repo-6E56CF?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🌐 Web Technologies</h3>
-      <p>Projects exploring modern <strong>web design and development</strong> including responsive layouts, animations, and UX patterns.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      </p>
-      <a href="https://github.com/JENILP07/Web-Designing">
-        <img src="https://img.shields.io/badge/View_Repo-6E56CF?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
